@@ -1,0 +1,44 @@
+[34m@blablaland/client:build: [0mcache hit, replaying output [2m45650525931ddf93[0m
+[34m@blablaland/client:build: [0m
+[34m@blablaland/client:build: [0m> build
+[34m@blablaland/client:build: [0m> next build
+[34m@blablaland/client:build: [0m
+[34m@blablaland/client:build: [0mBrowserslist: caniuse-lite is outdated. Please run:
+[34m@blablaland/client:build: [0m  npx browserslist@latest --update-db
+[34m@blablaland/client:build: [0m  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating
+[34m@blablaland/client:build: [0minfo  - Checking validity of types...
+[34m@blablaland/client:build: [0minfo  - Creating an optimized production build...
+[34m@blablaland/client:build: [0mBrowserslist: caniuse-lite is outdated. Please run:
+[34m@blablaland/client:build: [0mnpx browserslist@latest --update-db
+[34m@blablaland/client:build: [0m
+[34m@blablaland/client:build: [0mWhy you should do it regularly:
+[34m@blablaland/client:build: [0mhttps://github.com/browserslist/browserslist#browsers-data-updating
+[34m@blablaland/client:build: [0minfo  - Compiled successfully
+[34m@blablaland/client:build: [0minfo  - Collecting page data...
+[34m@blablaland/client:build: [0minfo  - Generating static pages (0/3)
+[34m@blablaland/client:build: [0minfo  - Generating static pages (3/3)
+[34m@blablaland/client:build: [0minfo  - Finalizing page optimization...
+[34m@blablaland/client:build: [0m
+[34m@blablaland/client:build: [0mPage                                       Size     First Load JS
+[34m@blablaland/client:build: [0m┌ ○ /                                      1.47 kB        81.8 kB
+[34m@blablaland/client:build: [0m├   /_app                                  0 B              75 kB
+[34m@blablaland/client:build: [0m├ ○ /404                                   193 B          75.2 kB
+[34m@blablaland/client:build: [0m├ λ /api/auth/login                        0 B              75 kB
+[34m@blablaland/client:build: [0m├ λ /api/auth/register                     0 B              75 kB
+[34m@blablaland/client:build: [0m├ λ /api/user                              0 B              75 kB
+[34m@blablaland/client:build: [0m├ λ /login                                 3.7 kB           84 kB
+[34m@blablaland/client:build: [0m├ λ /params.xml                            251 B          75.3 kB
+[34m@blablaland/client:build: [0m├ λ /play                                  1.54 kB        81.9 kB
+[34m@blablaland/client:build: [0m├ λ /register                              3.74 kB        84.1 kB
+[34m@blablaland/client:build: [0m├ λ /scripts/chat/getBBL.php               268 B          75.3 kB
+[34m@blablaland/client:build: [0m└ λ /scripts/chat/keepalive.php            267 B          75.3 kB
+[34m@blablaland/client:build: [0m+ First Load JS shared by all              75 kB
+[34m@blablaland/client:build: [0m  ├ chunks/framework-39ef0a24cced4e18.js   42 kB
+[34m@blablaland/client:build: [0m  ├ chunks/main-1620fe742cfceb1f.js        27.6 kB
+[34m@blablaland/client:build: [0m  ├ chunks/pages/_app-a66bb13596300fe7.js  4.61 kB
+[34m@blablaland/client:build: [0m  ├ chunks/webpack-69bfa6990bb9e155.js     769 B
+[34m@blablaland/client:build: [0m  └ css/12ef8fb2613cf0bb.css               2.56 kB
+[34m@blablaland/client:build: [0m
+[34m@blablaland/client:build: [0mλ  (Server)  server-side renders at runtime (uses getInitialProps or getServerSideProps)
+[34m@blablaland/client:build: [0m○  (Static)  automatically rendered as static HTML (uses no initial props)
+[34m@blablaland/client:build: [0m

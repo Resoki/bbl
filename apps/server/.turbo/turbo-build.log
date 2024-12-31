@@ -1,0 +1,6 @@
+[36m@blablaland/server:build: [0mcache hit, replaying output [2m2aea392e4329dc84[0m
+[36m@blablaland/server:build: [0m
+[36m@blablaland/server:build: [0m> build
+[36m@blablaland/server:build: [0m> swc src/ --out-dir=dist/
+[36m@blablaland/server:build: [0m
+[36m@blablaland/server:build: [0mSuccessfully compiled: 37 files with swc (245.55ms)

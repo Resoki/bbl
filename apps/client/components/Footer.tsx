@@ -4,7 +4,7 @@ const Footer = () => {
       <span className="flex-1 text-right text-slate-600 dark:text-slate-400">
         Développé par l'équipe de{" "}
         <a className="text-blue-500 dark:text-blue-300 hover:text-blue-400" href="https://blablaland.fun">
-          Blablaland.fun
+          Blablaland.new
         </a>
       </span>
     </div>
