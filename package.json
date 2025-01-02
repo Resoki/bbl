@@ -33,7 +33,8 @@
     "init": "prisma generate --schema=./packages/database/prisma/schema.prisma && prisma db push --schema=./packages/database/prisma/schema.prisma",
     "dev": "turbo run dev",
     "start": "turbo run start",
-    "prettify": "prettier --write \"./**/*.ts\""
+    "prettify": "prettier --write \"./**/*.ts\"",
+    "build:client": "npm run build --workspace=@blablaland/client"
   },
   "packageManager": "npm@8.3.2"
 }
